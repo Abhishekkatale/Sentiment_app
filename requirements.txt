@@ -3,3 +3,4 @@ pandas
 textblob
 plotly
 SpeechRecognition
+pyaudio
